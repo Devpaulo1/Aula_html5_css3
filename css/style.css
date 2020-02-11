@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(117, 181, 212);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.menu {
+    background-color: #000000;
+    padding: 15px;
+}
+.menu ul {
+    display: flex;
+}
+
+.menu ul li{
+    margin: 0px 20px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    font-size: 13px;
+}
+
+.menu a {
+    color: #ece2e2;
+}
+
+header {
+    margin-top: 20px;
+}
+
+h1 {
+    color:red;
+    font-family: fantasy;
+    
+}
+
+h2 {
+    font-family: fantasy;
+    
+}
+
+p {
+    font-size: 17px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+    border: 2px;
+    border-color: red;
+}
+
+.logo {
+    width: 30px;
+}
